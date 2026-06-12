@@ -1,4 +1,4 @@
-print("Quien ganara keiko o jp")
+print("Con fe aprobamos el curso")
 print("Ya casi termina el semestre wiii")
 
 y = int(input("Ingrese un numero:"))
